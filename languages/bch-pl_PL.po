@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Men Core\n"
+"POT-Creation-Date: 2014-12-29 19:58+0100\n"
+"PO-Revision-Date: 2014-12-29 19:58+0100\n"
+"Last-Translator: Piotr Potrebka <piotr.potrebka@men.gov.pl>\n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../contextual_help.php:15
+msgid "Dashboard"
+msgstr "Kokpit"
+
+#: ../contextual_help.php:16
+msgid "--Update"
+msgstr "--Aktualizacje"
+
+#: ../contextual_help.php:17
+msgid "Post"
+msgstr "Wpisy"
+
+#: ../contextual_help.php:18
+msgid "--Edit post"
+msgstr "--Edycja wpisu"
+
+#: ../contextual_help.php:19
+msgid "--Categories"
+msgstr "--Kategorie"
+
+#: ../contextual_help.php:20
+msgid "--Tags"
+msgstr "--Tagi"
+
+#: ../contextual_help.php:21
+msgid "Themes"
+msgstr "Szablony"
+
+#: ../contextual_help.php:22
+msgid "--Widgets"
+msgstr "--Widżety"
+
+#: ../contextual_help.php:23
+msgid "--Menus"
+msgstr "--Menu"
+
+#: ../contextual_help.php:24
+msgid "Theme editor"
+msgstr "Edytor szablonu"
+
+#: ../contextual_help.php:25
+msgid "Plugins"
+msgstr "Wtyczki"
+
+#: ../contextual_help.php:26
+msgid "--Plugin install"
+msgstr "--Instalacja wtyczek"
+
+#: ../contextual_help.php:27
+msgid "--Plugin editor"
+msgstr "--Edytor wtyczek"
+
+#: ../contextual_help.php:28
+msgid "Users"
+msgstr "Użytkownik"
+
+#: ../contextual_help.php:29
+msgid "--Add user"
+msgstr "--Dodaj użytkownika"
+
+#: ../contextual_help.php:30
+msgid "--Edit user"
+msgstr "--Edytuj użytkownika"
+
+#: ../contextual_help.php:31
+msgid "--Profile"
+msgstr "--Profil"
+
+#: ../contextual_help.php:32
+msgid "Tools"
+msgstr "Narzędzia"
+
+#: ../contextual_help.php:33
+msgid "--Import"
+msgstr "--Import"
+
+#: ../contextual_help.php:34
+msgid "--Export"
+msgstr "--Eksport"
+
+#: ../contextual_help.php:35 ../contextual_help.php:109
+msgid "Options"
+msgstr "Opcje"
+
+#: ../contextual_help.php:36
+msgid "WP Help"
+msgstr "Pomoc WP"
+
+#: ../contextual_help.php:55 ../contextual_help.php:56
+#: ../contextual_help.php:57
+msgid "Contextual Help"
+msgstr "Pomoc WP"
+
+#: ../contextual_help.php:80
+msgid "Page"
+msgstr "Strona"
+
+#: ../contextual_help.php:81
+msgid "Roles"
+msgstr "Role"
+
+#: ../contextual_help.php:101 ../contextual_help.php:130
+msgid "All roles"
+msgstr "Wszystkie role"
+
+#: ../contextual_help.php:116
+msgid "Choose a screen"
+msgstr "Wybierz stronę"
+
+#: ../contextual_help.php:122
+msgid "Slug"
+msgstr "Upr. nazwa"
+
+#: ../contextual_help.php:124
+msgid "Paste here ID tab you want to replace or leave blank"
+msgstr "Wklej tutaj ID zakładki, którą chcesz zastąpić lub pozostaw puste"
+
+#: ../contextual_help.php:126
+msgid "Display for"
+msgstr "Pokaż dla"
+
+#~ msgid "Order posts"
+#~ msgstr "Sortuj wpisy"
+
+#~ msgid "Order"
+#~ msgstr "Sortuj"
+
+#~ msgid "Category:"
+#~ msgstr "Kategoria:"
+
+#~ msgid "No posts"
+#~ msgstr "Brak wpisów"
+
+#~ msgid "Reorder"
+#~ msgstr "Posortuj"
+
+#~ msgid "Remove order"
+#~ msgstr "Usuń sortowanie"
+
+#~ msgid "Expiring"
+#~ msgstr "Wygasa"
+
+#~ msgid "Never"
+#~ msgstr "Nigdy"
+
+#~ msgid "Expiring:"
+#~ msgstr "Wygasa: "
+
+#~ msgid "Edit"
+#~ msgstr "Edytuj"
+
+#~ msgid "Edit expiring date"
+#~ msgstr "Edytuj datę wygaśnięcia"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "Cancel"
+#~ msgstr "Anuluj"
+
+#~ msgid "About document"
+#~ msgstr "O dokumencie"
+
+#~ msgid "Changes: %s"
+#~ msgstr "Zmian: %s"
+
+#~ msgid "Organization:"
+#~ msgstr "Organizacja:"
+
+#~ msgid "Document autor:"
+#~ msgstr "Autor dokumentu:"
+
+#~ msgid "Note:"
+#~ msgstr "Notatka:"
+
+#~ msgid "Modify date:"
+#~ msgstr "Data modyfikacji:"
+
+#~ msgid "Last editor:"
+#~ msgstr "Ostatni edytor:"
+
+#~ msgid "Display information about this document"
+#~ msgstr "Pokaz informacje o dokumencie"
+
+#~ msgid "Organization: %s"
+#~ msgstr "Organizacja: %s"
+
+#~ msgid "Document author: %s"
+#~ msgstr "Autor dokumentu: %s"
+
+#~ msgid "Editor: %s"
+#~ msgstr "Edytor: %s"
+
+#~ msgid "Publish date: %s"
+#~ msgstr "Data publikacji: %s"
+
+#~ msgid "Modify date: %s"
+#~ msgstr "Data modyfikacji: %s"
+
+#~ msgid "Cookie Law Text"
+#~ msgstr "Treść Cookie"
+
+#~ msgid "Close"
+#~ msgstr "Zamknij"
+
+#~ msgid "Source"
+#~ msgstr "Źródło"
+
+#~ msgid "Action"
+#~ msgstr "Akcja"
+
+#~ msgid "Category"
+#~ msgstr "Kategoria"
+
+#~ msgid "User"
+#~ msgstr "Użytkownik"
+
+#~ msgid "Date"
+#~ msgstr "Data"
+
+#~ msgid "Show:"
+#~ msgstr "Pokaż:"
+
+#~ msgid "Title"
+#~ msgstr "Tytuł"
+
+#~ msgid "Username"
+#~ msgstr "Użytkownik"
+
+#~ msgid "Type"
+#~ msgstr "Typ"
+
+#~ msgid "Your password will expire in %s days"
+#~ msgstr "Twoja hasło wygaśnie za %s dni"
+
+#~ msgid "Thumb"
+#~ msgstr "Obraz"

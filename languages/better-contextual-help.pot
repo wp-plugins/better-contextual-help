@@ -1,160 +1,152 @@
+# Copyright (C) 2015 Better Contextual Help
+# This file is distributed under the same license as the Better Contextual Help package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Men Core\n"
+"Project-Id-Version: Better Contextual Help 1.0\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/better-contextual-help\n"
 "POT-Creation-Date: 2015-01-04 20:14:03+00:00\n"
-"PO-Revision-Date: 2015-01-04 21:15+0100\n"
-"Last-Translator: Piotr Potrebka <piotr.potrebka@men.gov.pl>\n"
-"Language-Team: \n"
-"Language: pl_PL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-KeywordsList: _;__;_e;esc_html_e\n"
-"X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 1.6.4\n"
-"X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-SearchPath-0: ..\n"
-"X-Poedit-SearchPath-1: ..\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 
 #: better-contextual-help.php:15
 msgid "Dashboard"
-msgstr "Kokpit"
+msgstr ""
 
 #: better-contextual-help.php:16
 msgid "--Update"
-msgstr "--Aktualizacje"
+msgstr ""
 
 #: better-contextual-help.php:17
 msgid "Post"
-msgstr "Wpisy"
+msgstr ""
 
 #: better-contextual-help.php:18
 msgid "--Edit post"
-msgstr "--Edycja wpisu"
+msgstr ""
 
 #: better-contextual-help.php:19
 msgid "--Categories"
-msgstr "--Kategorie"
+msgstr ""
 
 #: better-contextual-help.php:20
 msgid "--Tags"
-msgstr "--Tagi"
+msgstr ""
 
 #: better-contextual-help.php:21
 msgid "Themes"
-msgstr "Szablony"
+msgstr ""
 
 #: better-contextual-help.php:22
 msgid "--Widgets"
-msgstr "--Widżety"
+msgstr ""
 
 #: better-contextual-help.php:23
 msgid "--Menus"
-msgstr "--Menu"
+msgstr ""
 
 #: better-contextual-help.php:24
 msgid "Theme editor"
-msgstr "Edytor szablonu"
+msgstr ""
 
 #: better-contextual-help.php:25
 msgid "Plugins"
-msgstr "Wtyczki"
+msgstr ""
 
 #: better-contextual-help.php:26
 msgid "--Plugin install"
-msgstr "--Instalacja wtyczek"
+msgstr ""
 
 #: better-contextual-help.php:27
 msgid "--Plugin editor"
-msgstr "--Edytor wtyczek"
+msgstr ""
 
 #: better-contextual-help.php:28
 msgid "Users"
-msgstr "Użytkownik"
+msgstr ""
 
 #: better-contextual-help.php:29
 msgid "--Add user"
-msgstr "--Dodaj użytkownika"
+msgstr ""
 
 #: better-contextual-help.php:30
 msgid "--Edit user"
-msgstr "--Edytuj użytkownika"
+msgstr ""
 
 #: better-contextual-help.php:31
 msgid "--Profile"
-msgstr "--Profil"
+msgstr ""
 
 #: better-contextual-help.php:32
 msgid "Tools"
-msgstr "Narzędzia"
+msgstr ""
 
 #: better-contextual-help.php:33
 msgid "--Import"
-msgstr "--Import"
+msgstr ""
 
 #: better-contextual-help.php:34
 msgid "--Export"
-msgstr "--Eksport"
+msgstr ""
 
 #: better-contextual-help.php:35 better-contextual-help.php:109
 msgid "Options"
-msgstr "Opcje"
+msgstr ""
 
 #: better-contextual-help.php:36
 msgid "WP Help"
-msgstr "Pomoc WP"
+msgstr ""
 
 #: better-contextual-help.php:55 better-contextual-help.php:56
 #: better-contextual-help.php:57
 msgid "Contextual Help"
-msgstr "Pomoc WP"
+msgstr ""
 
 #: better-contextual-help.php:80
 msgid "Page"
-msgstr "Strona"
+msgstr ""
 
 #: better-contextual-help.php:81
 msgid "Roles"
-msgstr "Role"
+msgstr ""
 
 #: better-contextual-help.php:101 better-contextual-help.php:130
 msgid "All roles"
-msgstr "Wszystkie role"
+msgstr ""
 
 #: better-contextual-help.php:116
 msgid "Choose a screen"
-msgstr "Wybierz stronę"
+msgstr ""
 
 #: better-contextual-help.php:122
 msgid "Slug"
-msgstr "Upr. nazwa"
+msgstr ""
 
 #: better-contextual-help.php:124
 msgid "Paste here ID tab you want to replace or leave blank"
-msgstr "Wklej tutaj ID zakładki, którą chcesz zastąpić lub pozostaw puste"
+msgstr ""
 
 #: better-contextual-help.php:126
 msgid "Display for"
-msgstr "Pokaż dla"
+msgstr ""
 
 #. Plugin Name of the plugin/theme
-#, fuzzy
 msgid "Better Contextual Help"
-msgstr "Pomoc WP"
+msgstr ""
 
 #. Description of the plugin/theme
 msgid ""
 "Extend your Wordpress Help by add new tabs or replacing old. You can add "
 "tabs for specific roles and screens."
 msgstr ""
-"Umożliwia rozszerzenie pomocy w kokpicie. Możesz dodawać zakładki dla danych "
-"ról i ekranów."
 
 #. Author of the plugin/theme
 msgid "Piotr Potrebka"
-msgstr "Piotr Potrebka"
+msgstr ""
 
 #. Author URI of the plugin/theme
 msgid "http://potrebka.pl"
-msgstr "http://potrebka.pl"
+msgstr ""

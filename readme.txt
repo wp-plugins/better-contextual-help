@@ -5,7 +5,7 @@ Tested up to: 4.1
 Stable tag: 1.0
 Requires at least: 3.8
 
-Extend your Dahsboard Help.
+Extend your Dahsboard Help. Display help for multiple screens and user roles.
 
 == Description ==
 Extend your dashboard help by adding new tabs or replacing old ones. You can add tab for the specific roles and screens.

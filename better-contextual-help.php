@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Better Contextual Help
- * Description: Extend your Wordpress Help by add new tabs or replacing old. You can add tabs for specific roles and screens.
+ * Description: Extend your Dahsboard Help. Display help for multiple screens and user roles.
  * Version: 1.0
  * Author: Piotr Potrebka
  * Author URI: http://potrebka.pl

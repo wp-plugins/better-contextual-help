@@ -166,7 +166,7 @@ class better_contextual_help {
 		foreach($posts as $row ) {
 			$post_screens = (array) get_post_meta( $row->ID, 'wh_screen_id', true );
 			$wh_roles = (array) get_post_meta( $row->ID, 'wh_roles', true );
-			if( in_array( $current_user->roles[0], $wh_roles ) ) {
+			if( in_array( $current_user->roles[0], $wh_roles ) OR in_array( 'all', $wh_roles ) ) {
 				$new_screen_id = sanitize_title( $row->post_name );
 				$row->post_content = str_replace( array('{{', '}}'), array('[', ']'), $row->post_content);
 				if( in_array( $screen_id, $post_screens ) ) {
